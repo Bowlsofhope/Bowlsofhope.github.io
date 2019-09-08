@@ -11,3 +11,5 @@ tag:
 - theme
 comments: True
 ---
+
+This is the first post of this website
