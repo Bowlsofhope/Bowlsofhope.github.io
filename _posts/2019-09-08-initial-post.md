@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
+title:  "First Post"
 date:   2019-09-08
-excerpt: "Minimal, one column Jekyll theme for your blog."
-project: true
+excerpt: "New Website!."
 tag:
 - jekyll 
 - moon
 - blog
 - about
 - theme
-comments: false
+comments: True
 ---
