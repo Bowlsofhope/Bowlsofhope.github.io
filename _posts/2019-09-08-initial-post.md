@@ -10,5 +10,5 @@ tag:
 - blog
 - about
 - theme
-comments: true
+comments: false
 ---
