@@ -1,37 +1,15 @@
 ---
 layout: page
-title: About the Theme
+title: About Us
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><Bowls of Hope is a Club at LASA High School.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Mission Statement
+LASA Bowls of Hope is a student run organization whose goal is to help give back to the local and global community through food drives and fundraisers. Bowls of Hope was founded with the purpose of helping LASA students do their part in ending world hunger. We host multiple student run food drives and fundraisers throughout the year, working to raise food and money for organisations like the Central Texas Food Bank and the Indian Foodbanking Network. 
 
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## How to Join
+Our club has a very relaxed environment. You can "join" the club with no commitment to participate in any of our events. To join, fill out our form at https://goo.gl/forms/boJ8XD8igS3LoycG3. This will add you to our email list so you can learn about upcoming volunteer opporunities to save hunger and other special events we are hosting
