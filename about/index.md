@@ -13,4 +13,3 @@ LASA Bowls of Hope is a student run organization whose goal is to help give back
 ## How to Join
 Our club has a very relaxed environment. You can "join" the club with no commitment to participate in any of our events. To join, fill out our form at https://goo.gl/forms/boJ8XD8igS3LoycG3. This will add you to our email list so you can learn about upcoming volunteer opporunities to save hunger and other special events we are hosting
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfxKBagXHofHV1keZEA9Oojlkyoe7XQbCesC9E8oH8PbBLA0w/viewform?embedded=true" width="640" height="445" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
