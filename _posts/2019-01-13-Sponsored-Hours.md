@@ -6,8 +6,4 @@ excerpt: "Now you can get sponsored hours!"
 tag: [volunteering]
 comments: False
 ---
-Dear friends. In light of the coronavirus, we are planning opportunities that while helping out our community when they need it most, allow you to stay safe. We will give you more information as soon as we develop plans. Updates will be posted to this page, on the main page of our website, and sent to club members via email.
-
-Stay tuned and stay healthy,
-
-Bowls of Hope
+Volunteering at the Central Texas Food Bank through our club (or outside of it) now count as sponsored hours for NHS. Note that this doesn't apply for other club activities. Those can just count as unsponsored hours.
