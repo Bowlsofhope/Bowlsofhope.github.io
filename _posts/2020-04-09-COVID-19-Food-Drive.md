@@ -39,7 +39,7 @@ On the porch of each house, there will be a box that you can drop off items in. 
 # Safety Instructions
 As you should be doing at all times, avoid contact with other people when dropping off food (staying six feet away at least). **If you’re feeling sick or have had contact with someone that you know is sick, please don’t drop off food.**
 
-If you have any questions or comments, feel free to email us: us@bowlsofhope.org
+If you have any questions or comments, feel free to email us: us@bowlsofhope.org. We'll respond as quick as possible. If you are in the process of handing off a donation and have trouble finding the donation box, or have any other emergency situation related to this food drive, please call 737-333-5704 for more immediate assistance.
 
 Thanks for reading this important information document and we look forward to seeing your donation!
 
