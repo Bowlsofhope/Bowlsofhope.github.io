@@ -22,7 +22,8 @@ The most needed items, according to the Central Texas Food Bank, are:
 * brown rice 
 * non-fat dry milk powder 
 * 100% whole grain cereal
-* All non-perishable items will be accepted though.
+
+All non-perishable items will be accepted though.
 
 # Where to drop off items
 You can drop off items at any of the locations below:
