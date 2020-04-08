@@ -15,14 +15,14 @@ You can help by donating food to our food drive, in which the food will be donat
 # What items to drop off
 We can only accept non-perishable food.
 The most needed items, according to the Central Texas Food Bank, are:
-peanut butter 
-canned chicken breast or tuna 
-canned low sodium vegetables canned fruit in its own juice (no sugar added) 
-dry pinto beans 
-brown rice 
-non-fat dry milk powder 
-100% whole grain cereal
-All non-perishable items will be accepted though.
+* peanut butter 
+* canned chicken breast or tuna 
+* canned low sodium vegetables canned fruit in its own juice (no sugar added) 
+* dry pinto beans 
+* brown rice 
+* non-fat dry milk powder 
+* 100% whole grain cereal
+* All non-perishable items will be accepted though.
 
 # Where to drop off items
 You can drop off items at any of the locations below:
