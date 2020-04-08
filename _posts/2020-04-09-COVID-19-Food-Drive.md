@@ -43,4 +43,4 @@ If you have any questions or comments, feel free to email us: us@bowlsofhope.org
 
 Thanks for reading this important information document and we look forward to seeing your donation!
 
-– Bowls of Hope
+– Bowls of Hope (Sam Christian, Jasmine Gokingco, Pranav Bingi, Ishan Ladhani)
