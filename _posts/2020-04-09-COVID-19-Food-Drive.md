@@ -37,10 +37,15 @@ See this map to find which location is closest to your house (the locations are 
 
 On the porch of each house, there will be a box that you can drop off items in. You can drop off items anytime, during the dates of the food drive (**April 15th (Wednesday) to May 2nd (Saturday)**)
 
+# Email updates/Feedback
+If would like to recieve email updates on the food drive as it progresses, or have any commments you would like to share, please fill out this form.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelSljDkvkeycdA-MnEdZ1OpanH7ScPV_19WNn5o1vkD-KrYA/viewform?embedded=true" width="640" height="542" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
 # Safety Instructions
 As you should be doing at all times, avoid contact with other people when dropping off food (staying six feet away at least). **If you’re feeling sick or have had contact with someone that you know is sick, please don’t drop off food.**
 
-If you have any questions or comments, feel free to email us: us@bowlsofhope.org. We'll respond as quick as possible. If you are in the process of handing off a donation and have trouble finding the donation box, or have any other emergency situation related to this food drive, please call 737-333-5704 for more immediate assistance.
+If you have any questions or comments, feel free to email us: us \[at\] bowlsofhope \[dot\]org. We'll respond as quick as possible. If you are in the process of handing off a donation and have trouble finding the donation box, or have any other emergency situation related to this food drive, please call 737-333-5704 for more immediate assistance.
 
 Thanks for reading this important information document and we look forward to seeing your donation!
 
